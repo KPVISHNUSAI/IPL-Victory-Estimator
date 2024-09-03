@@ -179,6 +179,13 @@ streamlit run app.py
 
 This will start a Streamlit app that provides an interface for estimating IPL match outcomes.
 
+### Results
+<div style="text-align:center;width:100%;">
+    <img style="margin-bottom:20px;" src="https://github.com/KPVISHNUSAI/IPL-Victory-Estimator/blob/main/Screenshot%202024-09-03%20131729.png?raw=true" />
+</div>
+
+This screenshot shows the prediction results of the model on test data.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
