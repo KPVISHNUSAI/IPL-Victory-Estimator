@@ -1,6 +1,3 @@
-Here’s a detailed `README.md` script for your "IPL Victory Estimator" project:
-
-```markdown
 # IPL Victory Estimator
 
 This project aims to estimate the probability of a team winning an IPL match using historical match data and machine learning techniques. The model is built using a Logistic Regression algorithm after performing necessary data preprocessing and feature engineering.
