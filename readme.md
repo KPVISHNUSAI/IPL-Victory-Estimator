@@ -190,5 +190,4 @@ This screenshot shows the prediction results of the model on test data.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-This `README.md` should provide clear guidance on how to set up and use your "IPL Victory Estimator" project, including data preparation, feature engineering, and model building. Feel free to adjust the details according to your project's specifics!
+This `README.md` should provide clear guidance on how to set up and use your "IPL Victory Estimator" project, including data preparation, feature engineering, and model building.
