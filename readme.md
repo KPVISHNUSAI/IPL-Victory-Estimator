@@ -186,8 +186,5 @@ This will start a Streamlit app that provides an interface for estimating IPL ma
 
 This screenshot shows the prediction results of the model on test data.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 This `README.md` should provide clear guidance on how to set up and use your "IPL Victory Estimator" project, including data preparation, feature engineering, and model building.
