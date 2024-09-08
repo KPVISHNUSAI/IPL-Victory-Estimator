@@ -185,6 +185,3 @@ This will start a Streamlit app that provides an interface for estimating IPL ma
 </div>
 
 This screenshot shows the prediction results of the model on test data.
-
-```
-This `README.md` should provide clear guidance on how to set up and use your "IPL Victory Estimator" project, including data preparation, feature engineering, and model building.
